@@ -66,6 +66,22 @@ npm run start
 
 Or deploy to Vercel (set `GROQ_API_KEY` and `GROQ_MODEL` in project settings).
 
+## Deploy via GitHub + Vercel
+
+1. **Create a new repository on GitHub** (e.g. `stoicism-site`). Do not add a README or .gitignore.
+
+2. **Add remote and push** (replace `YOUR_USERNAME` and `YOUR_REPO`):
+
+   ```bash
+   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git branch -M main
+   git push -u origin main
+   ```
+
+3. **Connect repo in Vercel:** [vercel.com](https://vercel.com) → your project → **Settings** → **Git** → **Connect Git Repository** → choose GitHub and select the repo. Future pushes to `main` will trigger automatic deploys.
+
+4. **Secrets:** In Vercel → **Settings** → **Environment Variables**, add `GROQ_API_KEY` (and optionally `GROQ_MODEL`) if you run builds that need the API.
+
 ## Project structure
 
 - `app/` – Next.js App Router pages (home, category indexes, topic pages)
