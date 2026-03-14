@@ -43,7 +43,8 @@ function capitalize(s: string): string {
 export function getMetadata(contentType: ContentType, topic: string): Metadata {
   const title = TITLE_MAP[contentType](topic);
   const description = DESC_MAP[contentType](topic);
-  const url = `https://stoicseo.example.com/${contentType}/${topic}`;
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://stoicismguide.com';
+  const url = `${baseUrl}/${contentType}/${topic}`;
   return {
     title,
     description,

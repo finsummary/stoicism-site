@@ -1,4 +1,4 @@
-# StoicSEO Engine
+# Stoicism Guide
 
 Programmatic SEO website for Stoicism content. Generates static pages from a topic dataset and AI-generated markdown articles (Groq).
 
@@ -49,7 +49,17 @@ Programmatic SEO website for Stoicism content. Generates static pages from a top
 
    To overwrite existing articles, set `OVERWRITE = true` in `scripts/generate_articles.ts`.
 
-5. **Run dev server**
+5. **Topic images (optional)**
+
+   Article pages show an image per topic. To fetch one Unsplash photo per topic and save URLs to `data/topic-images.json`:
+
+   - Get a free [Unsplash API key](https://unsplash.com/developers), add `UNSPLASH_ACCESS_KEY=your_key` to `.env.local`.
+   - Run: `npm run fetch-topic-images`
+   - Edit `data/topic-keywords.json` to change the search query used for each topic.
+
+   Without running this step, a single default image is used for all articles.
+
+6. **Run dev server**
 
    ```bash
    npm run dev
@@ -82,14 +92,24 @@ Or deploy to Vercel (set `GROQ_API_KEY` and `GROQ_MODEL` in project settings).
 
 4. **Secrets:** In Vercel → **Settings** → **Environment Variables**, add `GROQ_API_KEY` (and optionally `GROQ_MODEL`) if you run builds that need the API.
 
+## Custom domain (e.g. stoicismguide.com)
+
+1. **Vercel:** Project → **Settings** → **Domains** → **Add** → enter `stoicismguide.com` and `www.stoicismguide.com`. Vercel will show required DNS records.
+2. **Namecheap:** Domain List → **Manage** next to your domain → **Advanced DNS**.
+   - For **apex** (stoicismguide.com): Add **A Record**, Host `@`, Value the IP Vercel shows (e.g. `216.198.79.1` — use the one from your Vercel Domains page).
+   - For **www**: Add **CNAME Record**, Host `www`, Value `cname.vercel-dns.com`.
+   - Remove or leave default A/CNAME if Namecheap added any.
+3. Back in Vercel, click **Verify** on each domain. Propagation can take a few minutes up to 48 hours.
+4. Optional: In Vercel → **Environment Variables** add `NEXT_PUBLIC_SITE_URL=https://stoicismguide.com` so Open Graph links use your domain.
+
 ## Project structure
 
 - `app/` – Next.js App Router pages (home, category indexes, topic pages)
 - `components/` – ArticleLayout, AppCTA, RelatedTopics, HubLinks
 - `content/` – Generated markdown articles
-- `data/` – topics.json, templates.json, keywords.json
-- `lib/` – ai.ts (Groq), markdown.ts, seo.ts
-- `scripts/` – generate_keywords.ts, generate_articles.ts
+- `data/` – topics.json, templates.json, keywords.json, topic-keywords.json, topic-images.json (from fetch-topic-images)
+- `lib/` – ai.ts, images.ts (topic image URL), markdown.ts, seo.ts
+- `scripts/` – generate_keywords.ts, generate_articles.ts, fetch_topic_images.ts
 
 ## Scaling
 

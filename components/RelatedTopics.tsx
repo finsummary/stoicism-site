@@ -39,7 +39,7 @@ export default function RelatedTopics({ currentTopic, count = 6 }: RelatedTopics
 
   return (
     <section className="mt-10">
-      <h2 className="text-lg font-semibold text-stone-800 dark:text-stone-200">
+      <h2 className="font-heading text-lg font-semibold text-stone-800 dark:text-stone-200">
         Related topics
       </h2>
       <ul className="mt-3 space-y-2">
@@ -47,7 +47,7 @@ export default function RelatedTopics({ currentTopic, count = 6 }: RelatedTopics
           <li key={href}>
             <Link
               href={href}
-              className="text-stone-600 underline decoration-stone-300 hover:decoration-stone-500 dark:text-stone-400 dark:decoration-stone-600 dark:hover:decoration-stone-400"
+              className="text-amber-700 underline decoration-amber-200 hover:decoration-amber-400 dark:text-amber-400 dark:decoration-amber-700 dark:hover:decoration-amber-500"
             >
               {label}
             </Link>

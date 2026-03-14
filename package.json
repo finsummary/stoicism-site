@@ -5,6 +5,7 @@
   "scripts": {
     "generate-keywords": "tsx scripts/generate_keywords.ts",
     "generate-articles": "tsx scripts/generate_articles.ts",
+    "fetch-topic-images": "tsx scripts/fetch_topic_images.ts",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

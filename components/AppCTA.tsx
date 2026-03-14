@@ -1,7 +1,9 @@
 export default function AppCTA() {
   return (
-    <section className="mt-12 rounded-xl border border-stone-200 bg-stone-50 p-6 text-stone-800 dark:border-stone-700 dark:bg-stone-800/50 dark:text-stone-200">
-      <h2 className="text-xl font-semibold">Talk to a Stoic Mentor</h2>
+    <section className="mt-12 rounded-xl border border-warm-200 bg-white p-6 shadow-sm dark:border-stone-700 dark:bg-stone-800/50 dark:text-stone-200">
+      <h2 className="font-heading text-xl font-semibold text-stone-800 dark:text-stone-100">
+        Talk to a Stoic Mentor
+      </h2>
       <p className="mt-2 text-stone-600 dark:text-stone-400">
         Inside the Stoicism AI Guide app you can:
       </p>
@@ -15,7 +17,7 @@ export default function AppCTA() {
         href="https://apps.apple.com/app/stoicism-ai-guide"
         target="_blank"
         rel="noopener noreferrer"
-        className="mt-4 inline-block rounded-lg bg-stone-800 px-4 py-2 text-white hover:bg-stone-700 dark:bg-stone-200 dark:text-stone-900 dark:hover:bg-stone-300"
+        className="mt-4 inline-block rounded-lg bg-amber-600 px-4 py-2 font-medium text-white transition-colors hover:bg-amber-700 dark:bg-amber-600 dark:hover:bg-amber-500"
       >
         Download on the App Store
       </a>

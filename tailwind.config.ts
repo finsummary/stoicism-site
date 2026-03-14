@@ -9,7 +9,16 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        serif: ['Georgia', 'Cambria', 'serif'],
+        heading: ['var(--font-heading)', 'Georgia', 'serif'],
+        body: ['var(--font-body)', 'Georgia', 'serif'],
+        serif: ['var(--font-heading)', 'Georgia', 'serif'],
+      },
+      colors: {
+        warm: {
+          50: '#faf9f7',
+          100: '#f5f3ef',
+          200: '#e8e4dc',
+        },
       },
     },
   },

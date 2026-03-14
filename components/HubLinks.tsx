@@ -16,7 +16,7 @@ interface HubLinksProps {
 export default function HubLinks({ topic }: HubLinksProps) {
   return (
     <section className="mt-10">
-      <h2 className="text-lg font-semibold text-stone-800 dark:text-stone-200">
+      <h2 className="font-heading text-lg font-semibold text-stone-800 dark:text-stone-200">
         Explore more on this topic
       </h2>
       <ul className="mt-3 flex flex-wrap gap-2">
@@ -24,7 +24,7 @@ export default function HubLinks({ topic }: HubLinksProps) {
           <li key={href}>
             <Link
               href={`/${href}/${topic}`}
-              className="rounded-md bg-stone-100 px-3 py-1.5 text-stone-700 hover:bg-stone-200 dark:bg-stone-700 dark:text-stone-300 dark:hover:bg-stone-600"
+              className="rounded-lg bg-warm-100 px-3 py-1.5 text-stone-700 transition-colors hover:bg-amber-100 hover:text-amber-800 dark:bg-stone-700 dark:text-stone-300 dark:hover:bg-amber-900/30 dark:hover:text-amber-200"
             >
               {label} about {topic}
             </Link>

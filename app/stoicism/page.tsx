@@ -9,7 +9,7 @@ export const metadata = {
 export default function StoicismHubIndex() {
   return (
     <div className="mx-auto max-w-3xl px-4 py-12">
-      <h1 className="font-serif text-3xl font-bold text-stone-900 dark:text-stone-100">
+      <h1 className="font-heading text-3xl font-bold tracking-tight text-stone-800 dark:text-stone-100">
         Stoicism by Topic
       </h1>
       <p className="mt-4 text-stone-600 dark:text-stone-400">
@@ -20,7 +20,7 @@ export default function StoicismHubIndex() {
           <li key={topic}>
             <Link
               href={`/stoicism/${topic}`}
-              className="block rounded-md py-2 text-stone-700 underline decoration-stone-300 hover:decoration-stone-500 dark:text-stone-300 dark:decoration-stone-600 dark:hover:decoration-stone-400"
+              className="block py-2 text-amber-700 underline decoration-amber-200 hover:decoration-amber-400 dark:text-amber-400 dark:decoration-amber-700 dark:hover:decoration-amber-500"
             >
               Stoicism and {topic}
             </Link>
