@@ -102,6 +102,14 @@ Or deploy to Vercel (set `GROQ_API_KEY` and `GROQ_MODEL` in project settings).
 3. Back in Vercel, click **Verify** on each domain. Propagation can take a few minutes up to 48 hours.
 4. Optional: In Vercel → **Environment Variables** add `NEXT_PUBLIC_SITE_URL=https://stoicismguide.com` so Open Graph links use your domain.
 
+## Search engine indexing (Google, Bing)
+
+The site exposes `/sitemap.xml` and `/robots.txt` (generated from `app/sitemap.ts` and `app/robots.ts`). To get indexed:
+
+1. **Google Search Console:** [search.google.com/search-console](https://search.google.com/search-console) → Add property → URL prefix `https://stoicismguide.com` → Verify (HTML tag in layout, or DNS TXT record, or upload HTML file). Then **Sitemaps** → submit `https://stoicismguide.com/sitemap.xml`. Use **URL Inspection** to request indexing for important pages.
+2. **Bing Webmaster Tools:** [bing.com/webmasters](https://www.bing.com/webmasters) → Add site → Import from GSC or add sitemap manually.
+3. Ensure `NEXT_PUBLIC_SITE_URL=https://stoicismguide.com` is set in Vercel so sitemap and robots use the correct domain.
+
 ## Project structure
 
 - `app/` – Next.js App Router pages (home, category indexes, topic pages)
