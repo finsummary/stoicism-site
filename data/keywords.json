@@ -1,0 +1,1442 @@
+[
+  {
+    "keyword": "stoic quotes about anxiety",
+    "topic": "anxiety",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/anxiety",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/anxiety"
+  },
+  {
+    "keyword": "stoic exercises for anxiety",
+    "topic": "anxiety",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/anxiety",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/anxiety"
+  },
+  {
+    "keyword": "stoic advice for anxiety",
+    "topic": "anxiety",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/anxiety",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/anxiety"
+  },
+  {
+    "keyword": "stoicism for anxiety",
+    "topic": "anxiety",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/anxiety",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/anxiety"
+  },
+  {
+    "keyword": "what would stoics say about anxiety",
+    "topic": "anxiety",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/anxiety",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/anxiety"
+  },
+  {
+    "keyword": "stoic journal prompts for anxiety",
+    "topic": "anxiety",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/anxiety",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/anxiety"
+  },
+  {
+    "keyword": "stoic quotes about anger",
+    "topic": "anger",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/anger",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/anger"
+  },
+  {
+    "keyword": "stoic exercises for anger",
+    "topic": "anger",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/anger",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/anger"
+  },
+  {
+    "keyword": "stoic advice for anger",
+    "topic": "anger",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/anger",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/anger"
+  },
+  {
+    "keyword": "stoicism for anger",
+    "topic": "anger",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/anger",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/anger"
+  },
+  {
+    "keyword": "what would stoics say about anger",
+    "topic": "anger",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/anger",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/anger"
+  },
+  {
+    "keyword": "stoic journal prompts for anger",
+    "topic": "anger",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/anger",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/anger"
+  },
+  {
+    "keyword": "stoic quotes about fear",
+    "topic": "fear",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/fear",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/fear"
+  },
+  {
+    "keyword": "stoic exercises for fear",
+    "topic": "fear",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/fear",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/fear"
+  },
+  {
+    "keyword": "stoic advice for fear",
+    "topic": "fear",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/fear",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/fear"
+  },
+  {
+    "keyword": "stoicism for fear",
+    "topic": "fear",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/fear",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/fear"
+  },
+  {
+    "keyword": "what would stoics say about fear",
+    "topic": "fear",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/fear",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/fear"
+  },
+  {
+    "keyword": "stoic journal prompts for fear",
+    "topic": "fear",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/fear",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/fear"
+  },
+  {
+    "keyword": "stoic quotes about stress",
+    "topic": "stress",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/stress",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/stress"
+  },
+  {
+    "keyword": "stoic exercises for stress",
+    "topic": "stress",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/stress",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/stress"
+  },
+  {
+    "keyword": "stoic advice for stress",
+    "topic": "stress",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/stress",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/stress"
+  },
+  {
+    "keyword": "stoicism for stress",
+    "topic": "stress",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/stress",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/stress"
+  },
+  {
+    "keyword": "what would stoics say about stress",
+    "topic": "stress",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/stress",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/stress"
+  },
+  {
+    "keyword": "stoic journal prompts for stress",
+    "topic": "stress",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/stress",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/stress"
+  },
+  {
+    "keyword": "stoic quotes about discipline",
+    "topic": "discipline",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/discipline",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/discipline"
+  },
+  {
+    "keyword": "stoic exercises for discipline",
+    "topic": "discipline",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/discipline",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/discipline"
+  },
+  {
+    "keyword": "stoic advice for discipline",
+    "topic": "discipline",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/discipline",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/discipline"
+  },
+  {
+    "keyword": "stoicism for discipline",
+    "topic": "discipline",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/discipline",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/discipline"
+  },
+  {
+    "keyword": "what would stoics say about discipline",
+    "topic": "discipline",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/discipline",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/discipline"
+  },
+  {
+    "keyword": "stoic journal prompts for discipline",
+    "topic": "discipline",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/discipline",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/discipline"
+  },
+  {
+    "keyword": "stoic quotes about confidence",
+    "topic": "confidence",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/confidence",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/confidence"
+  },
+  {
+    "keyword": "stoic exercises for confidence",
+    "topic": "confidence",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/confidence",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/confidence"
+  },
+  {
+    "keyword": "stoic advice for confidence",
+    "topic": "confidence",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/confidence",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/confidence"
+  },
+  {
+    "keyword": "stoicism for confidence",
+    "topic": "confidence",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/confidence",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/confidence"
+  },
+  {
+    "keyword": "what would stoics say about confidence",
+    "topic": "confidence",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/confidence",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/confidence"
+  },
+  {
+    "keyword": "stoic journal prompts for confidence",
+    "topic": "confidence",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/confidence",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/confidence"
+  },
+  {
+    "keyword": "stoic quotes about burnout",
+    "topic": "burnout",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/burnout",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/burnout"
+  },
+  {
+    "keyword": "stoic exercises for burnout",
+    "topic": "burnout",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/burnout",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/burnout"
+  },
+  {
+    "keyword": "stoic advice for burnout",
+    "topic": "burnout",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/burnout",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/burnout"
+  },
+  {
+    "keyword": "stoicism for burnout",
+    "topic": "burnout",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/burnout",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/burnout"
+  },
+  {
+    "keyword": "what would stoics say about burnout",
+    "topic": "burnout",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/burnout",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/burnout"
+  },
+  {
+    "keyword": "stoic journal prompts for burnout",
+    "topic": "burnout",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/burnout",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/burnout"
+  },
+  {
+    "keyword": "stoic quotes about loneliness",
+    "topic": "loneliness",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/loneliness",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/loneliness"
+  },
+  {
+    "keyword": "stoic exercises for loneliness",
+    "topic": "loneliness",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/loneliness",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/loneliness"
+  },
+  {
+    "keyword": "stoic advice for loneliness",
+    "topic": "loneliness",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/loneliness",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/loneliness"
+  },
+  {
+    "keyword": "stoicism for loneliness",
+    "topic": "loneliness",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/loneliness",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/loneliness"
+  },
+  {
+    "keyword": "what would stoics say about loneliness",
+    "topic": "loneliness",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/loneliness",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/loneliness"
+  },
+  {
+    "keyword": "stoic journal prompts for loneliness",
+    "topic": "loneliness",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/loneliness",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/loneliness"
+  },
+  {
+    "keyword": "stoic quotes about jealousy",
+    "topic": "jealousy",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/jealousy",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/jealousy"
+  },
+  {
+    "keyword": "stoic exercises for jealousy",
+    "topic": "jealousy",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/jealousy",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/jealousy"
+  },
+  {
+    "keyword": "stoic advice for jealousy",
+    "topic": "jealousy",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/jealousy",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/jealousy"
+  },
+  {
+    "keyword": "stoicism for jealousy",
+    "topic": "jealousy",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/jealousy",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/jealousy"
+  },
+  {
+    "keyword": "what would stoics say about jealousy",
+    "topic": "jealousy",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/jealousy",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/jealousy"
+  },
+  {
+    "keyword": "stoic journal prompts for jealousy",
+    "topic": "jealousy",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/jealousy",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/jealousy"
+  },
+  {
+    "keyword": "stoic quotes about rejection",
+    "topic": "rejection",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/rejection",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/rejection"
+  },
+  {
+    "keyword": "stoic exercises for rejection",
+    "topic": "rejection",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/rejection",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/rejection"
+  },
+  {
+    "keyword": "stoic advice for rejection",
+    "topic": "rejection",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/rejection",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/rejection"
+  },
+  {
+    "keyword": "stoicism for rejection",
+    "topic": "rejection",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/rejection",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/rejection"
+  },
+  {
+    "keyword": "what would stoics say about rejection",
+    "topic": "rejection",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/rejection",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/rejection"
+  },
+  {
+    "keyword": "stoic journal prompts for rejection",
+    "topic": "rejection",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/rejection",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/rejection"
+  },
+  {
+    "keyword": "stoic quotes about failure",
+    "topic": "failure",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/failure",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/failure"
+  },
+  {
+    "keyword": "stoic exercises for failure",
+    "topic": "failure",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/failure",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/failure"
+  },
+  {
+    "keyword": "stoic advice for failure",
+    "topic": "failure",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/failure",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/failure"
+  },
+  {
+    "keyword": "stoicism for failure",
+    "topic": "failure",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/failure",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/failure"
+  },
+  {
+    "keyword": "what would stoics say about failure",
+    "topic": "failure",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/failure",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/failure"
+  },
+  {
+    "keyword": "stoic journal prompts for failure",
+    "topic": "failure",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/failure",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/failure"
+  },
+  {
+    "keyword": "stoic quotes about success",
+    "topic": "success",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/success",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/success"
+  },
+  {
+    "keyword": "stoic exercises for success",
+    "topic": "success",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/success",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/success"
+  },
+  {
+    "keyword": "stoic advice for success",
+    "topic": "success",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/success",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/success"
+  },
+  {
+    "keyword": "stoicism for success",
+    "topic": "success",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/success",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/success"
+  },
+  {
+    "keyword": "what would stoics say about success",
+    "topic": "success",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/success",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/success"
+  },
+  {
+    "keyword": "stoic journal prompts for success",
+    "topic": "success",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/success",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/success"
+  },
+  {
+    "keyword": "stoic quotes about procrastination",
+    "topic": "procrastination",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/procrastination",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/procrastination"
+  },
+  {
+    "keyword": "stoic exercises for procrastination",
+    "topic": "procrastination",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/procrastination",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/procrastination"
+  },
+  {
+    "keyword": "stoic advice for procrastination",
+    "topic": "procrastination",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/procrastination",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/procrastination"
+  },
+  {
+    "keyword": "stoicism for procrastination",
+    "topic": "procrastination",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/procrastination",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/procrastination"
+  },
+  {
+    "keyword": "what would stoics say about procrastination",
+    "topic": "procrastination",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/procrastination",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/procrastination"
+  },
+  {
+    "keyword": "stoic journal prompts for procrastination",
+    "topic": "procrastination",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/procrastination",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/procrastination"
+  },
+  {
+    "keyword": "stoic quotes about overthinking",
+    "topic": "overthinking",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/overthinking",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/overthinking"
+  },
+  {
+    "keyword": "stoic exercises for overthinking",
+    "topic": "overthinking",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/overthinking",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/overthinking"
+  },
+  {
+    "keyword": "stoic advice for overthinking",
+    "topic": "overthinking",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/overthinking",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/overthinking"
+  },
+  {
+    "keyword": "stoicism for overthinking",
+    "topic": "overthinking",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/overthinking",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/overthinking"
+  },
+  {
+    "keyword": "what would stoics say about overthinking",
+    "topic": "overthinking",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/overthinking",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/overthinking"
+  },
+  {
+    "keyword": "stoic journal prompts for overthinking",
+    "topic": "overthinking",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/overthinking",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/overthinking"
+  },
+  {
+    "keyword": "stoic quotes about leadership",
+    "topic": "leadership",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/leadership",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/leadership"
+  },
+  {
+    "keyword": "stoic exercises for leadership",
+    "topic": "leadership",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/leadership",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/leadership"
+  },
+  {
+    "keyword": "stoic advice for leadership",
+    "topic": "leadership",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/leadership",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/leadership"
+  },
+  {
+    "keyword": "stoicism for leadership",
+    "topic": "leadership",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/leadership",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/leadership"
+  },
+  {
+    "keyword": "what would stoics say about leadership",
+    "topic": "leadership",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/leadership",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/leadership"
+  },
+  {
+    "keyword": "stoic journal prompts for leadership",
+    "topic": "leadership",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/leadership",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/leadership"
+  },
+  {
+    "keyword": "stoic quotes about entrepreneurship",
+    "topic": "entrepreneurship",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/entrepreneurship",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/entrepreneurship"
+  },
+  {
+    "keyword": "stoic exercises for entrepreneurship",
+    "topic": "entrepreneurship",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/entrepreneurship",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/entrepreneurship"
+  },
+  {
+    "keyword": "stoic advice for entrepreneurship",
+    "topic": "entrepreneurship",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/entrepreneurship",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/entrepreneurship"
+  },
+  {
+    "keyword": "stoicism for entrepreneurship",
+    "topic": "entrepreneurship",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/entrepreneurship",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/entrepreneurship"
+  },
+  {
+    "keyword": "what would stoics say about entrepreneurship",
+    "topic": "entrepreneurship",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/entrepreneurship",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/entrepreneurship"
+  },
+  {
+    "keyword": "stoic journal prompts for entrepreneurship",
+    "topic": "entrepreneurship",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/entrepreneurship",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/entrepreneurship"
+  },
+  {
+    "keyword": "stoic quotes about career",
+    "topic": "career",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/career",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/career"
+  },
+  {
+    "keyword": "stoic exercises for career",
+    "topic": "career",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/career",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/career"
+  },
+  {
+    "keyword": "stoic advice for career",
+    "topic": "career",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/career",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/career"
+  },
+  {
+    "keyword": "stoicism for career",
+    "topic": "career",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/career",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/career"
+  },
+  {
+    "keyword": "what would stoics say about career",
+    "topic": "career",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/career",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/career"
+  },
+  {
+    "keyword": "stoic journal prompts for career",
+    "topic": "career",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/career",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/career"
+  },
+  {
+    "keyword": "stoic quotes about grief",
+    "topic": "grief",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/grief",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/grief"
+  },
+  {
+    "keyword": "stoic exercises for grief",
+    "topic": "grief",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/grief",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/grief"
+  },
+  {
+    "keyword": "stoic advice for grief",
+    "topic": "grief",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/grief",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/grief"
+  },
+  {
+    "keyword": "stoicism for grief",
+    "topic": "grief",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/grief",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/grief"
+  },
+  {
+    "keyword": "what would stoics say about grief",
+    "topic": "grief",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/grief",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/grief"
+  },
+  {
+    "keyword": "stoic journal prompts for grief",
+    "topic": "grief",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/grief",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/grief"
+  },
+  {
+    "keyword": "stoic quotes about loss",
+    "topic": "loss",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/loss",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/loss"
+  },
+  {
+    "keyword": "stoic exercises for loss",
+    "topic": "loss",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/loss",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/loss"
+  },
+  {
+    "keyword": "stoic advice for loss",
+    "topic": "loss",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/loss",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/loss"
+  },
+  {
+    "keyword": "stoicism for loss",
+    "topic": "loss",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/loss",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/loss"
+  },
+  {
+    "keyword": "what would stoics say about loss",
+    "topic": "loss",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/loss",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/loss"
+  },
+  {
+    "keyword": "stoic journal prompts for loss",
+    "topic": "loss",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/loss",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/loss"
+  },
+  {
+    "keyword": "stoic quotes about change",
+    "topic": "change",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/change",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/change"
+  },
+  {
+    "keyword": "stoic exercises for change",
+    "topic": "change",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/change",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/change"
+  },
+  {
+    "keyword": "stoic advice for change",
+    "topic": "change",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/change",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/change"
+  },
+  {
+    "keyword": "stoicism for change",
+    "topic": "change",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/change",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/change"
+  },
+  {
+    "keyword": "what would stoics say about change",
+    "topic": "change",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/change",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/change"
+  },
+  {
+    "keyword": "stoic journal prompts for change",
+    "topic": "change",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/change",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/change"
+  },
+  {
+    "keyword": "stoic quotes about uncertainty",
+    "topic": "uncertainty",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/uncertainty",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/uncertainty"
+  },
+  {
+    "keyword": "stoic exercises for uncertainty",
+    "topic": "uncertainty",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/uncertainty",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/uncertainty"
+  },
+  {
+    "keyword": "stoic advice for uncertainty",
+    "topic": "uncertainty",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/uncertainty",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/uncertainty"
+  },
+  {
+    "keyword": "stoicism for uncertainty",
+    "topic": "uncertainty",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/uncertainty",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/uncertainty"
+  },
+  {
+    "keyword": "what would stoics say about uncertainty",
+    "topic": "uncertainty",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/uncertainty",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/uncertainty"
+  },
+  {
+    "keyword": "stoic journal prompts for uncertainty",
+    "topic": "uncertainty",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/uncertainty",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/uncertainty"
+  },
+  {
+    "keyword": "stoic quotes about control",
+    "topic": "control",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/control",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/control"
+  },
+  {
+    "keyword": "stoic exercises for control",
+    "topic": "control",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/control",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/control"
+  },
+  {
+    "keyword": "stoic advice for control",
+    "topic": "control",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/control",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/control"
+  },
+  {
+    "keyword": "stoicism for control",
+    "topic": "control",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/control",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/control"
+  },
+  {
+    "keyword": "what would stoics say about control",
+    "topic": "control",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/control",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/control"
+  },
+  {
+    "keyword": "stoic journal prompts for control",
+    "topic": "control",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/control",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/control"
+  },
+  {
+    "keyword": "stoic quotes about patience",
+    "topic": "patience",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/patience",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/patience"
+  },
+  {
+    "keyword": "stoic exercises for patience",
+    "topic": "patience",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/patience",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/patience"
+  },
+  {
+    "keyword": "stoic advice for patience",
+    "topic": "patience",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/patience",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/patience"
+  },
+  {
+    "keyword": "stoicism for patience",
+    "topic": "patience",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/patience",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/patience"
+  },
+  {
+    "keyword": "what would stoics say about patience",
+    "topic": "patience",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/patience",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/patience"
+  },
+  {
+    "keyword": "stoic journal prompts for patience",
+    "topic": "patience",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/patience",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/patience"
+  },
+  {
+    "keyword": "stoic quotes about gratitude",
+    "topic": "gratitude",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/gratitude",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/gratitude"
+  },
+  {
+    "keyword": "stoic exercises for gratitude",
+    "topic": "gratitude",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/gratitude",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/gratitude"
+  },
+  {
+    "keyword": "stoic advice for gratitude",
+    "topic": "gratitude",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/gratitude",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/gratitude"
+  },
+  {
+    "keyword": "stoicism for gratitude",
+    "topic": "gratitude",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/gratitude",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/gratitude"
+  },
+  {
+    "keyword": "what would stoics say about gratitude",
+    "topic": "gratitude",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/gratitude",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/gratitude"
+  },
+  {
+    "keyword": "stoic journal prompts for gratitude",
+    "topic": "gratitude",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/gratitude",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/gratitude"
+  },
+  {
+    "keyword": "stoic quotes about mindfulness",
+    "topic": "mindfulness",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/mindfulness",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/mindfulness"
+  },
+  {
+    "keyword": "stoic exercises for mindfulness",
+    "topic": "mindfulness",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/mindfulness",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/mindfulness"
+  },
+  {
+    "keyword": "stoic advice for mindfulness",
+    "topic": "mindfulness",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/mindfulness",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/mindfulness"
+  },
+  {
+    "keyword": "stoicism for mindfulness",
+    "topic": "mindfulness",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/mindfulness",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/mindfulness"
+  },
+  {
+    "keyword": "what would stoics say about mindfulness",
+    "topic": "mindfulness",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/mindfulness",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/mindfulness"
+  },
+  {
+    "keyword": "stoic journal prompts for mindfulness",
+    "topic": "mindfulness",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/mindfulness",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/mindfulness"
+  },
+  {
+    "keyword": "stoic quotes about resilience",
+    "topic": "resilience",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/resilience",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/resilience"
+  },
+  {
+    "keyword": "stoic exercises for resilience",
+    "topic": "resilience",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/resilience",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/resilience"
+  },
+  {
+    "keyword": "stoic advice for resilience",
+    "topic": "resilience",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/resilience",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/resilience"
+  },
+  {
+    "keyword": "stoicism for resilience",
+    "topic": "resilience",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/resilience",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/resilience"
+  },
+  {
+    "keyword": "what would stoics say about resilience",
+    "topic": "resilience",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/resilience",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/resilience"
+  },
+  {
+    "keyword": "stoic journal prompts for resilience",
+    "topic": "resilience",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/resilience",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/resilience"
+  },
+  {
+    "keyword": "stoic quotes about courage",
+    "topic": "courage",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/courage",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/courage"
+  },
+  {
+    "keyword": "stoic exercises for courage",
+    "topic": "courage",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/courage",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/courage"
+  },
+  {
+    "keyword": "stoic advice for courage",
+    "topic": "courage",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/courage",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/courage"
+  },
+  {
+    "keyword": "stoicism for courage",
+    "topic": "courage",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/courage",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/courage"
+  },
+  {
+    "keyword": "what would stoics say about courage",
+    "topic": "courage",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/courage",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/courage"
+  },
+  {
+    "keyword": "stoic journal prompts for courage",
+    "topic": "courage",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/courage",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/courage"
+  },
+  {
+    "keyword": "stoic quotes about wisdom",
+    "topic": "wisdom",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/wisdom",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/wisdom"
+  },
+  {
+    "keyword": "stoic exercises for wisdom",
+    "topic": "wisdom",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/wisdom",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/wisdom"
+  },
+  {
+    "keyword": "stoic advice for wisdom",
+    "topic": "wisdom",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/wisdom",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/wisdom"
+  },
+  {
+    "keyword": "stoicism for wisdom",
+    "topic": "wisdom",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/wisdom",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/wisdom"
+  },
+  {
+    "keyword": "what would stoics say about wisdom",
+    "topic": "wisdom",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/wisdom",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/wisdom"
+  },
+  {
+    "keyword": "stoic journal prompts for wisdom",
+    "topic": "wisdom",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/wisdom",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/wisdom"
+  },
+  {
+    "keyword": "stoic quotes about virtue",
+    "topic": "virtue",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/virtue",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/virtue"
+  },
+  {
+    "keyword": "stoic exercises for virtue",
+    "topic": "virtue",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/virtue",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/virtue"
+  },
+  {
+    "keyword": "stoic advice for virtue",
+    "topic": "virtue",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/virtue",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/virtue"
+  },
+  {
+    "keyword": "stoicism for virtue",
+    "topic": "virtue",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/virtue",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/virtue"
+  },
+  {
+    "keyword": "what would stoics say about virtue",
+    "topic": "virtue",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/virtue",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/virtue"
+  },
+  {
+    "keyword": "stoic journal prompts for virtue",
+    "topic": "virtue",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/virtue",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/virtue"
+  },
+  {
+    "keyword": "stoic quotes about death",
+    "topic": "death",
+    "template": "stoic quotes about {topic}",
+    "slug": "stoic-quotes/death",
+    "contentType": "stoic-quotes",
+    "pillarSlug": "stoicism/death"
+  },
+  {
+    "keyword": "stoic exercises for death",
+    "topic": "death",
+    "template": "stoic exercises for {topic}",
+    "slug": "stoic-exercises/death",
+    "contentType": "stoic-exercises",
+    "pillarSlug": "stoicism/death"
+  },
+  {
+    "keyword": "stoic advice for death",
+    "topic": "death",
+    "template": "stoic advice for {topic}",
+    "slug": "stoic-advice/death",
+    "contentType": "stoic-advice",
+    "pillarSlug": "stoicism/death"
+  },
+  {
+    "keyword": "stoicism for death",
+    "topic": "death",
+    "template": "stoicism for {topic}",
+    "slug": "stoicism-for/death",
+    "contentType": "stoicism-for",
+    "pillarSlug": "stoicism/death"
+  },
+  {
+    "keyword": "what would stoics say about death",
+    "topic": "death",
+    "template": "what would stoics say about {topic}",
+    "slug": "what-would-stoics-say/death",
+    "contentType": "what-would-stoics-say",
+    "pillarSlug": "stoicism/death"
+  },
+  {
+    "keyword": "stoic journal prompts for death",
+    "topic": "death",
+    "template": "stoic journal prompts for {topic}",
+    "slug": "stoic-journal-prompts/death",
+    "contentType": "stoic-journal-prompts",
+    "pillarSlug": "stoicism/death"
+  }
+]

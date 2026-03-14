@@ -1,0 +1,29 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# build
+.next
+out
+build
+
+# env
+.env
+.env.local
+.env.*.local
+
+# debug
+npm-debug.log*
+.pnp.debug
+
+# misc
+.DS_Store
+*.pem
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+.vercel
