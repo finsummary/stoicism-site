@@ -17,9 +17,9 @@ const HERO_IMAGE =
 
 export default function HomePage() {
   return (
-    <div className="w-full max-w-full min-w-0">
-      <div className="relative mx-auto w-full max-w-5xl px-4 pt-6">
-        <div className="relative aspect-[21/9] min-h-[180px] overflow-hidden rounded-xl bg-warm-200 dark:bg-stone-800">
+    <div className="w-full min-w-0 max-w-[100vw]">
+      <div className="relative mx-auto w-full max-w-[100vw] overflow-hidden px-4 pt-6 sm:max-w-5xl">
+        <div className="relative aspect-[21/9] w-full max-w-full overflow-hidden rounded-xl bg-warm-200 dark:bg-stone-800 sm:min-h-[180px]">
           <Image
             src={HERO_IMAGE}
             alt="Stoicism and classical wisdom"
@@ -36,7 +36,7 @@ export default function HomePage() {
           </div>
         </div>
       </div>
-      <div className="mx-auto w-full max-w-3xl px-4 py-12">
+      <div className="mx-auto w-full max-w-[100vw] px-4 py-12 sm:max-w-3xl">
       <p className="text-lg leading-relaxed text-stone-600 dark:text-stone-400">
         This site offers guides, quotes, exercises, and advice rooted in Stoic philosophy.
         Explore how the wisdom of Marcus Aurelius, Seneca, and Epictetus can help with

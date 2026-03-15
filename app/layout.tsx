@@ -18,6 +18,7 @@ export const metadata: Metadata = {
   title: 'Stoicism Guide – Stoicism Quotes, Exercises & Advice',
   description:
     'Explore Stoic philosophy with quotes, exercises, and advice from Marcus Aurelius, Seneca, and Epictetus. Your guide to Stoicism for modern life.',
+  viewport: { width: 'device-width', initialScale: 1 },
 };
 
 export default function RootLayout({
@@ -29,7 +30,7 @@ export default function RootLayout({
     <html lang="en" className={`${cormorant.variable} ${sourceSerif.variable}`}>
       <body className="min-h-screen min-w-0 overflow-x-hidden">
         <header className="border-b border-warm-200 bg-warm-50/95 dark:border-stone-700 dark:bg-stone-900/95">
-          <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-3 px-4 py-4">
+          <div className="mx-auto flex w-full max-w-[100vw] flex-wrap items-center justify-between gap-3 px-4 py-4 sm:max-w-5xl">
             <Link
               href="/"
               className="font-heading text-xl font-semibold text-stone-800 transition-colors hover:text-amber-700 dark:text-stone-100 dark:hover:text-amber-400 shrink-0"
@@ -52,7 +53,7 @@ export default function RootLayout({
             </nav>
           </div>
         </header>
-        <main className="min-w-0 overflow-x-hidden">{children}</main>
+        <main className="min-w-0 w-full max-w-[100vw] overflow-x-hidden">{children}</main>
         <footer className="mt-16 border-t border-warm-200 px-4 py-8 text-center text-sm text-stone-500 dark:border-stone-700 dark:text-stone-400">
           Stoicism Guide · Stoicism guides and resources
         </footer>
