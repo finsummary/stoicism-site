@@ -2,13 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
   @apply bg-warm-50 font-body text-stone-800 antialiased dark:bg-stone-900 dark:text-stone-200;
+  overflow-x: hidden;
+  min-width: 0;
 }
 
 .article-content {
   @apply text-stone-700 dark:text-stone-300;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  max-width: 100%;
 }
 .article-content p {
   @apply leading-[1.75];
+}
+.article-content pre,
+.article-content code {
+  max-width: 100%;
+  overflow-x: auto;
 }

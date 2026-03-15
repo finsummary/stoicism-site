@@ -53,7 +53,7 @@ export default function ArticleLayout({
   faqQuestions = [],
 }: ArticleLayoutProps) {
   return (
-    <article className="mx-auto max-w-3xl px-4 py-8">
+    <article className="mx-auto w-full max-w-3xl px-4 py-8 min-w-0">
       <div className="relative mb-8 aspect-[3/1] min-h-[140px] overflow-hidden rounded-lg bg-warm-200 dark:bg-stone-800">
         <Image
           src={getImageForTopic(topic)}
